@@ -1,0 +1,29 @@
+//DSU
+//HLD
+//Centroid Decomposition
+//Binary lifting
+//SCC & Tarjan's Algo
+
+
+//Check prime
+//Binary exponentiation
+//Inverse modulo
+//Sieve for prime
+
+//Segment Tree (for min) with lazy propagation
+//Segment Tree (for sum) with lazy propagation
+//Sparse Table
+
+//Matrix Multiplication
+//SOS DP
+//FFT
+//NTT
+//Factorial
+//NCR
+//XOR BASIS
+
+
+//KMP
+//TRIE
+
+
